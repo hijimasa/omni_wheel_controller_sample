@@ -1,6 +1,6 @@
 # omni_wheel_controller_sample
 
-This is sample packages for omni_wheel_controller package.
+This is sample packages for [omni_wheel_controller](https://github.com/hijimasa/omni_wheel_controller).
 
 ## Usage
 
