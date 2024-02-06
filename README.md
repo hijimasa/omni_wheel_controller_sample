@@ -7,7 +7,7 @@ This is sample packages for [omni_wheel_controller](https://github.com/hijimasa/
 1. clone this repository to your work space
    ```
    cd <your_workspace_dir>/src
-   git clone https://github.com/hijimasa/omni_wheel_controller_sample.git
+   git clone --recursive https://github.com/hijimasa/omni_wheel_controller_sample.git
    ```
 
 2. build an environment with Dockerfile
